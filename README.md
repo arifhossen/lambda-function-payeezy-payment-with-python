@@ -111,7 +111,7 @@ def card_transaction(data):
 
 ```
 
-## Step 2: Payeezy Card Payment Response Data
+## Step 6: Payeezy Card Payment Response Data
 
 ```python
 {
